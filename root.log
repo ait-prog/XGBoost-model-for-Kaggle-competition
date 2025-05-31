@@ -1,0 +1,52 @@
+6.2s 1 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+6.2s 2 0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+6.2s 3 0.00s - to python to disable frozen modules.
+6.2s 4 0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+6.9s 5 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+6.9s 6 0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+6.9s 7 0.00s - to python to disable frozen modules.
+6.9s 8 0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+10.8s 9 /kaggle/input/playground-series-s5e5/sample_submission.csv
+10.8s 10 /kaggle/input/playground-series-s5e5/train.csv
+10.8s 11 /kaggle/input/playground-series-s5e5/test.csv
+10.8s 12 /kaggle/input/orginal-dataset/calories.csv
+15.5s 13 
+15.5s 14 
+20.6s 15 [0]	train-rmse:0.95414	validation-rmse:0.95331
+85.0s 16 [1081]	train-rmse:0.05360	validation-rmse:0.05939
+86.5s 17 
+86.5s 18 
+90.6s 19 [0]	train-rmse:0.95374	validation-rmse:0.95615
+153.3s 20 [1018]	train-rmse:0.05376	validation-rmse:0.05973
+154.7s 21 
+154.7s 22 
+158.9s 23 [0]	train-rmse:0.95378	validation-rmse:0.95585
+228.0s 24 [1182]	train-rmse:0.05342	validation-rmse:0.05980
+229.6s 25 
+229.6s 26 
+233.7s 27 [0]	train-rmse:0.95405	validation-rmse:0.95395
+291.0s 28 [887]	train-rmse:0.05416	validation-rmse:0.05862
+292.3s 29 
+292.3s 30 
+296.4s 31 [0]	train-rmse:0.95395	validation-rmse:0.95463
+365.0s 32 [1191]	train-rmse:0.05341	validation-rmse:0.05988
+366.6s 33 
+366.6s 34 
+370.6s 35 [0]	train-rmse:0.95433	validation-rmse:0.95197
+435.0s 36 [1142]	train-rmse:0.05358	validation-rmse:0.05882
+436.5s 37 
+436.5s 38 
+440.5s 39 [0]	train-rmse:0.95450	validation-rmse:0.95074
+502.2s 40 [1061]	train-rmse:0.05369	validation-rmse:0.05994
+503.7s 41 
+503.7s 42 
+507.8s 43 [0]	train-rmse:0.95370	validation-rmse:0.95646
+576.5s 44 [1196]	train-rmse:0.05340	validation-rmse:0.05881
+581.1s 45 /usr/local/lib/python3.11/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+581.1s 46 warn(
+581.1s 47 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+581.4s 48 [NbConvertApp] Writing 11154 bytes to __notebook__.ipynb
+582.7s 49 /usr/local/lib/python3.11/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+582.7s 50 warn(
+582.7s 51 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+583.4s 52 [NbConvertApp] Writing 296528 bytes to __results__.html
